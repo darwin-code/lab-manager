@@ -41,7 +41,7 @@ Este proyecto es una aplicación de escritorio desarrollada con el lenguaje de p
 
 1. Clona este repositorio en tu máquina local con el siguiente comando que te comparto a continuación:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/tu-usuario/lab-manager.git
 2. Abre el proyecto en NetBeans.
 3. Asegúrate de tener el archivo .jar del conector JDBC en la carpeta de librerías del proyecto.
 4. Configura tu base de datos:
